@@ -1,0 +1,101 @@
+school_id,school_name,city,state,region,school_type,boarding_type
+SCH001,Jain International School,Bengaluru,Karnataka,South,Private,Residential
+SCH002,The TonsBridge School,Dehradun,Uttarakhand,North,Private,Residential
+SCH003,Tula's International School,Dehradun,Uttarakhand,North,Private,Residential
+SCH004,Hopetown Girls' School,Dehradun,Uttarakhand,North,Private,Residential
+SCH005,Shivalik School,Dehradun,Uttarakhand,North,Private,Residential
+SCH006,Mann School,Delhi,Delhi,North,Private,Residential
+SCH007,Sehwag International School,Jhajjar,Haryana,North,Private,Residential
+SCH008,Mussoorie International School,Mussoorie,Uttarakhand,North,Private,Residential
+SCH009,Heritage School,Vrindavan,Uttar Pradesh,North,Private,Residential
+SCH010,Delhi Public School,Patna,Bihar,East,Private,Day
+SCH011,The Doon School,Dehradun,Uttarakhand,North,Private,Residential
+SCH012,Welham Boys' School,Dehradun,Uttarakhand,North,Private,Residential
+SCH013,Welham Girls' School,Dehradun,Uttarakhand,North,Private,Residential
+SCH014,The Asian School,Dehradun,Uttarakhand,North,Private,Residential
+SCH015,SelaQui International School,Dehradun,Uttarakhand,North,Private,Residential
+SCH016,Ecole Globale International Girls' School,Dehradun,Uttarakhand,North,Private,Residential
+SCH017,Unison World School,Dehradun,Uttarakhand,North,Private,Residential
+SCH018,Kasiga School,Dehradun,Uttarakhand,North,Private,Residential
+SCH019,Doon International School,Dehradun,Uttarakhand,North,Private,Day
+SCH020,Doon Global School,Dehradun,Uttarakhand,North,Private,Day
+SCH021,The Aryan School,Dehradun,Uttarakhand,North,Private,Residential
+SCH022,Vantage Hall Girls' Residential School,Dehradun,Uttarakhand,North,Private,Residential
+SCH023,Shigally Hill International Academy,Dehradun,Uttarakhand,North,Private,Residential
+SCH024,The Pestle Weed School,Dehradun,Uttarakhand,North,Private,Residential
+SCH025,The Indian Public School,Dehradun,Uttarakhand,North,Private,Residential
+SCH026,Cambrian Hall,Dehradun,Uttarakhand,North,Private,Residential
+SCH027,Col. Brown Cambridge School,Dehradun,Uttarakhand,North,Private,Residential
+SCH028,Woodstock School,Mussoorie,Uttarakhand,North,Private,Residential
+SCH029,St. George's College,Mussoorie,Uttarakhand,North,Private,Residential
+SCH030,Guru Nanak Fifth Centenary School,Mussoorie,Uttarakhand,North,Private,Residential
+SCH031,"The Lawrence School, Sanawar",Solan,Himachal Pradesh,North,Private,Residential
+SCH032,Bishop Cotton School,Shimla,Himachal Pradesh,North,Private,Residential
+SCH033,Auckland House School,Shimla,Himachal Pradesh,North,Private,Residential
+SCH034,Birla Vidyamandir,Nainital,Uttarakhand,North,Private,Residential
+SCH035,Swarnprastha Public School,Sonipat,Haryana,North,Private,Residential
+SCH036,Motilal Nehru School of Sports,Sonipat,Haryana,North,Private,Residential
+SCH037,Vidya Devi Jindal School,Hisar,Haryana,North,Private,Residential
+SCH038,Lancers International School,Gurugram,Haryana,North,Private,Residential
+SCH039,Birla School,Pilani,Rajasthan,North,Private,Residential
+SCH040,Birla Balika Vidyapeeth,Pilani,Rajasthan,North,Private,Residential
+SCH041,Mayo College,Ajmer,Rajasthan,North,Private,Residential
+SCH042,The Scindia School,Gwalior,Madhya Pradesh,Central,Private,Residential
+SCH043,JG International School,Ahmedabad,Gujarat,West,Private,Day
+SCH044,SGVP International School,Ahmedabad,Gujarat,West,Private,Residential
+SCH045,Navrachana International School,Vadodara,Gujarat,West,Private,Day
+SCH046,Atmiya Vidya Mandir,Surat,Gujarat,West,Private,Residential
+SCH047,Swaminarayan Vidyapith,Anand,Gujarat,West,Private,Residential
+SCH048,Bhavkunj School,Kadi,Gujarat,West,Private,Day
+SCH049,PD Savani Cambridge International School,Surat,Gujarat,West,Private,Day
+SCH050,Tapovan International School,Vadodara,Gujarat,West,Private,Day
+SCH051,Sahyadri School,Pune,Maharashtra,West,Private,Residential
+SCH052,UWC Mahindra College,Pune,Maharashtra,West,Private,Residential
+SCH053,MIT Vishwashanti Gurukul,Pune,Maharashtra,West,Private,Residential
+SCH054,BK Birla Centre for Education,Pune,Maharashtra,West,Private,Residential
+SCH055,Indus International School,Pune,Maharashtra,West,Private,Residential
+SCH056,RiverDale International School,Pune,Maharashtra,West,Private,Residential
+SCH057,Victorious Kidss Educares,Pune,Maharashtra,West,Private,Day
+SCH058,Shivneri School,Junnar,Maharashtra,West,Private,Residential
+SCH059,Symbiosis International School,Pune,Maharashtra,West,Private,Day
+SCH060,The Bishop's School,Pune,Maharashtra,West,Private,Day
+SCH061,Mercedes-Benz International School,Pune,Maharashtra,West,Private,Day
+SCH062,Dehradun Residential Academy 01,Dehradun,Uttarakhand,North,Private,Residential
+SCH063,Mumbai Residential Academy 02,Mumbai,Maharashtra,West,Private,Residential
+SCH064,Kolkata Residential Academy 03,Kolkata,West Bengal,East,Private,Day
+SCH065,Hyderabad Residential Academy 04,Hyderabad,Telangana,South,Private,Residential
+SCH066,Indore Residential Academy 05,Indore,Madhya Pradesh,Central,Private,Residential
+SCH067,Shimla Residential Academy 06,Shimla,Himachal Pradesh,North,Private,Residential
+SCH068,Rajkot Residential Academy 07,Rajkot,Gujarat,West,Private,Day
+SCH069,Ranchi Residential Academy 08,Ranchi,Jharkhand,East,Private,Residential
+SCH070,Bengaluru Residential Academy 09,Bengaluru,Karnataka,South,Private,Residential
+SCH071,Bhopal Residential Academy 10,Bhopal,Madhya Pradesh,Central,Private,Residential
+SCH072,Jaipur Residential Academy 11,Jaipur,Rajasthan,North,Private,Day
+SCH073,Surat Residential Academy 12,Surat,Gujarat,West,Private,Residential
+SCH074,Patna Residential Academy 13,Patna,Bihar,East,Private,Residential
+SCH075,Hyderabad Residential Academy 14,Hyderabad,Telangana,South,Private,Residential
+SCH076,Indore Residential Academy 15,Indore,Madhya Pradesh,Central,Private,Day
+SCH077,Noida Residential Academy 16,Noida,Uttar Pradesh,North,Private,Residential
+SCH078,Nashik Residential Academy 17,Nashik,Maharashtra,West,Private,Residential
+SCH079,Kolkata Residential Academy 18,Kolkata,West Bengal,East,Private,Residential
+SCH080,Bengaluru Residential Academy 19,Bengaluru,Karnataka,South,Private,Day
+SCH081,Bhopal Residential Academy 20,Bhopal,Madhya Pradesh,Central,Private,Residential
+SCH082,Gurugram Residential Academy 21,Gurugram,Haryana,North,Private,Residential
+SCH083,Pune Residential Academy 22,Pune,Maharashtra,West,Private,Residential
+SCH084,Ranchi Residential Academy 23,Ranchi,Jharkhand,East,Private,Day
+SCH085,Hyderabad Residential Academy 24,Hyderabad,Telangana,South,Private,Residential
+SCH086,Indore Residential Academy 25,Indore,Madhya Pradesh,Central,Private,Residential
+SCH087,Delhi Residential Academy 26,Delhi,Delhi,North,Private,Residential
+SCH088,Vadodara Residential Academy 27,Vadodara,Gujarat,West,Private,Day
+SCH089,Patna Residential Academy 28,Patna,Bihar,East,Private,Residential
+SCH090,Bengaluru Residential Academy 29,Bengaluru,Karnataka,South,Private,Residential
+SCH091,Bhopal Residential Academy 30,Bhopal,Madhya Pradesh,Central,Private,Residential
+SCH092,Dehradun Residential Academy 31,Dehradun,Uttarakhand,North,Private,Day
+SCH093,Ahmedabad Residential Academy 32,Ahmedabad,Gujarat,West,Private,Residential
+SCH094,Kolkata Residential Academy 33,Kolkata,West Bengal,East,Private,Residential
+SCH095,Hyderabad Residential Academy 34,Hyderabad,Telangana,South,Private,Residential
+SCH096,Indore Residential Academy 35,Indore,Madhya Pradesh,Central,Private,Day
+SCH097,Shimla Residential Academy 36,Shimla,Himachal Pradesh,North,Private,Residential
+SCH098,Mumbai Residential Academy 37,Mumbai,Maharashtra,West,Private,Residential
+SCH099,Ranchi Residential Academy 38,Ranchi,Jharkhand,East,Private,Residential
+SCH100,Bengaluru Residential Academy 39,Bengaluru,Karnataka,South,Private,Day
